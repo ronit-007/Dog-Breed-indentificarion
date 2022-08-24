@@ -19,7 +19,7 @@
 ### 🐶  Dog Breed Classification Project. 🐶 
 An multiclass image classifier model using Tensorflow 2 and Tensorflow Hub to identify different breed of dogs
 
-**You can see below  predictions made by the final model :**
+**You can see below  prediction made by the final model :**
 
 <img src="https://user-images.githubusercontent.com/106836228/186512818-c9f84b27-bd15-4e12-aafc-adf799cdd48d.png">
 
