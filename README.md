@@ -6,8 +6,10 @@
   * [Classify Different Dog Breeds](#classify-different-dog-breeds)
   * [Getting Data ready](#getting-data-ready)
   * [Creating and training the Neural Network](#creating-and-training-the-neural-network)
-  * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Performances and results](#performances-and-results)
+  * [Improve the model](#improve-the-model)
+  * [Architecture](#architecture)
+  * [Technologies Used](#technologies-used)
   * [Future scope of project](#future-scope)
 
 
@@ -105,7 +107,11 @@ How to approuve model accuracy :
 2. [Data augmentation](https://bair.berkeley.edu/blog/2019/06/07/data_aug/) - Take the training images and manipulate (crop, resize) or distort them (flip, rotate) to create even more training data for the model to learn from. 
 3. [Fine-tuning](https://www.tensorflow.org/hub/tf2_saved_model#fine-tuning)
 
+## Architecture
 
+[![](https://imgur.com/fHwnL1y.png)]
+
+[![](https://imgur.com/E1KYSAO.png)]
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
