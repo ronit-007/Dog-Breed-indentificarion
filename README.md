@@ -7,7 +7,7 @@ An multiclass image classifier model using Tensorflow 2 and Tensorflow Hub to id
 
 
 ## Motivation
-What to do when you are at collage and having a strong base of mathematics and keen intrest in learning ML ,DL and AI? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all unsupervised models. Finally it is important to work on application (real world application) to actually make a difference.
+What to do when you are at collage and having a strong base of mathematics and keen intrest in learning ML ,DL and AI? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind models. Finally it is important to work on application (real world application) to actually make a difference.
 
 
 ## Technologies Used
