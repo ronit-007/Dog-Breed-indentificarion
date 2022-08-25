@@ -82,7 +82,7 @@ Dealing with 10,000+ images may take up more memory than your GPU has. Trying to
 
 In this project, we're using the **`mobilenet_v2_130_224`** model from TensorFlow Hub.
 https://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html
-MobileNetV2 is a significant improvement over MobileNetV1 and pushes the state of the art for mobile visual recognition including classification, object detection and semantic segmentation. MobileNetV2 is released as part of TensorFlow-Slim Image Classification Library, or you can start exploring MobileNetV2 right away in Colaboratory. Alternately, you can download the notebook and explore it locally using Jupyter. MobileNetV2 is also available as modules on TF-Hub, and pretrained checkpoints can be found on github.
+MobileNetV2 is a significant improvement over MobileNetV1 and pushes the state of the art for mobile visual recognition including classification, object detection and semantic segmentation. MobileNetV2 is released as part of TensorFlow-Slim Image Classification Library, or you can start exploring MobileNetV2 right away in Colaboratory. Alternately, you can download the notebook and explore it locally using Jupyter. MobileNetV2 is also available as modules on TF-Hub.
 <img src="https://user-images.githubusercontent.com/106836228/186514899-12e8ca5a-0bb6-4c7d-a275-de8c064e1815.png">
 
 ### Setting up the model layers
